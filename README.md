@@ -43,7 +43,7 @@
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | [SolutionLink](https://leetcode.com/problems/binary-search/submissions/1774883517) |
 | —   | [Floor in a Sorted Array (GFG)](https://www.geeksforgeeks.org/problems/floor-in-a-sorted-array-1587115620/1) | [SolutionLink](#) |
 | 35  | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [SolutionLink](https://leetcode.com/problems/search-insert-position/submissions/1774896203) |
-| 34  | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [YourSolutionLink](#) |
+| 34  | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [SolutionLink](#) |
 | 33  | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [SolutionLink](https://leetcode.com/problems/search-in-rotated-sorted-array/submissions/1777576313) |
 | 81  | [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | [SolutionLink](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/submissions/1777620894) |
 | 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [SolutionLink](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/submissions/1777658431) |
