@@ -3,7 +3,7 @@
 ## 📊 Arrays
 | #   | Problem | Solution |
 |-----|--------|---------|
-| 26  | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [YourSolutionLink] (https://leetcode.com/problems/remove-duplicates-from-sorted-array/submissions/1747347389) |
+| 26  | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [YourSolutionLink](https://leetcode.com/problems/remove-duplicates-from-sorted-array/submissions/1747347389) |
 | 1   | [Two Sum](https://leetcode.com/problems/two-sum/) | [YourSolutionLink](https://leetcode.com/problems/two-sum/submissions/1747360956) |
 | 15  | [3Sum](https://leetcode.com/problems/3sum/) | [YourSolutionLink](#) |
 | 16  | [3Sum Closest](https://leetcode.com/problems/3sum-closest/) | [YourSolutionLink](#) |
