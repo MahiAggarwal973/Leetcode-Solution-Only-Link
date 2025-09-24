@@ -47,8 +47,8 @@
 | 33  | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [SolutionLink](https://leetcode.com/problems/search-in-rotated-sorted-array/submissions/1777576313) |
 | 81  | [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | [SolutionLink](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/submissions/1777620894) |
 | 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [SolutionLink](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/submissions/1777658431) |
-| 540 | [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/) | [SolutionLink](https://leetcode.com/problems/single-element-in-a-sorted-array/submissions/1777721827) | 162  | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | [YourSolutionLink](#) |
-| 1011 | [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) | [YourSolutionLink](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/submissions/1781093291) |
-| 875  | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | [YourSolutionLink](https://leetcode.com/problems/koko-eating-bananas/submissions/1781386534) |
-| 74   | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [YourSolutionLink](https://leetcode.com/problems/search-a-2d-matrix/submissions/1781113554) |
+| 540 | [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/) | [SolutionLink](https://leetcode.com/problems/single-element-in-a-sorted-array/submissions/1777721827) | 162  | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | [SolutionLink](https://leetcode.com/problems/find-peak-element/submissions/1781412875) |
+| 1011 | [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) | [SolutionLink](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/submissions/1781093291) |
+| 875  | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | [SolutionLink](https://leetcode.com/problems/koko-eating-bananas/submissions/1781386534) |
+| 74   | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [SolutionLink](https://leetcode.com/problems/search-a-2d-matrix/submissions/1781113554) |
 
