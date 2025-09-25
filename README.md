@@ -56,9 +56,9 @@
 | #   | Problem | Solution |
 |-----|--------|---------|
 | 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/) | [SolutionLink](https://leetcode.com/problems/delete-node-in-a-linked-list/submissions/1782204911) |
-| 876 | [Middle of the Linked List] (https://leetcode.com/problems/middle-of-the-linked-list/description/) | [SolutionLInk] (https://leetcode.com/problems/middle-of-the-linked-list/submissions/1782214249) |
-| 328 | [Odd Even Linked List] (https://leetcode.com/problems/odd-even-linked-list/description/) | [SolutionLInk] (https://leetcode.com/problems/odd-even-linked-list/submissions/1782745771) |
-| 19 | [Remove Nth Node From End of the Linked List] (https://leetcode.com/problems/remove-nth-node-from-end-of-list/submissions/1782746652/) | [SolutionLInk] (https://leetcode.com/problems/remove-nth-node-from-end-of-list/submissions/1782746652) |
-| 206 | [Reverse Linked List] (https://leetcode.com/problems/reverse-linked-list/description/) | [SolutionLInk] (https://leetcode.com/problems/reverse-linked-list/submissions/1782748486) |
+| 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/) | [SolutionLInk](https://leetcode.com/problems/middle-of-the-linked-list/submissions/1782214249) |
+| 328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/description/) | [SolutionLInk](https://leetcode.com/problems/odd-even-linked-list/submissions/1782745771) |
+| 19 | [Remove Nth Node From End of the Linked List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/submissions/1782746652/) | [SolutionLInk](https://leetcode.com/problems/remove-nth-node-from-end-of-list/submissions/1782746652) |
+| 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) | [SolutionLInk](https://leetcode.com/problems/reverse-linked-list/submissions/1782748486) |
 
 
