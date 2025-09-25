@@ -52,3 +52,8 @@
 | 875  | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | [SolutionLink](https://leetcode.com/problems/koko-eating-bananas/submissions/1781386534) |
 | 74   | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [SolutionLink](https://leetcode.com/problems/search-a-2d-matrix/submissions/1781113554) |
 
+## Linked List
+| #   | Problem | Solution |
+|-----|--------|---------|
+| 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/) | [SolutionLink](https://leetcode.com/problems/delete-node-in-a-linked-list/submissions/1782204911) | 
+
