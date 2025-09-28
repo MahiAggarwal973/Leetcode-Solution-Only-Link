@@ -60,5 +60,14 @@
 | 328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/description/) | [SolutionLInk](https://leetcode.com/problems/odd-even-linked-list/submissions/1782745771) |
 | 19 | [Remove Nth Node From End of the Linked List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/submissions/1782746652/) | [SolutionLInk](https://leetcode.com/problems/remove-nth-node-from-end-of-list/submissions/1782746652) |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) | [SolutionLInk](https://leetcode.com/problems/reverse-linked-list/submissions/1782748486) |
+| 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/) | [SolutionLInk](https://leetcode.com/problems/palindrome-linked-list/submissions/1784855555) |
+| 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/) | [SolutionLInk](https://leetcode.com/problems/linked-list-cycle/submissions/1784865289) |
+| 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/description/) | [SolutionLInk](https://leetcode.com/problems/reverse-linked-list/submissions/1782748486) |
+| 160 | [Intersection of two Linked List](https://leetcode.com/problems/intersection-of-two-linked-lists/submissions/1784908729/) | [SolutionLInk](https://leetcode.com/problems/intersection-of-two-linked-lists/submissions/1784908729) |
+
+
+
+
+
 
 
