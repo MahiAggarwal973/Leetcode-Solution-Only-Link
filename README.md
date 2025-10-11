@@ -68,6 +68,38 @@
 | 25 | [Reverse Node in K-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/) | [SolutionLInk](https://leetcode.com/problems/reverse-nodes-in-k-group/submissions/1791042475) |
 | 61 | [Rotate List](https://leetcode.com/problems/rotate-list/description/) | [SolutionLInk](https://leetcode.com/problems/rotate-list/submissions/1791043972) |
 | 138 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/description/) | [SolutionLInk](https://leetcode.com/problems/copy-list-with-random-pointer/submissions/1791048919) |
+| - | [Flattening a Linked List]() | [SolutionLInk]() |
+## Stack
+| #   | Problem | Solution |
+|-----|--------|---------|  
+| - | [Implement Stack using array]() | [SolutionLInk]() |
+| - | [Queue using array]() | [SolutionLInk]() |
+| - | [Stack using Linked List]() | [SolutionLInk]() |
+| - | [Queue using stack]() | [SolutionLInk]() |
+| - | [Queue using Linked List]() | [SolutionLInk]() |
+| - | [Stack using queue]() | [SolutionLInk]() |
+| 20 | [Valid Prantheses](https://leetcode.com/problems/valid-parentheses/description/) | [SolutionLInk](https://leetcode.com/problems/valid-parentheses/submissions/1791770246) |
+| 155 | [Min Stack](https://leetcode.com/problems/min-stack/description/) | [SolutionLInk](https://leetcode.com/problems/min-stack/submissions/1791785807) |
+| 496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/description/) | [SolutionLInk](https://leetcode.com/problems/next-greater-element-i/submissions/1795141841) |
+| 503 | [Next Greater Elemen II](https://leetcode.com/problems/next-greater-element-ii/submissions/) | [SolutionLInk]() |
+| - | [Number of next greater element to right]() | [SolutionLInk]() |
+| - | [Next smaller element]() | [SolutionLInk]() |
+| - | [Previous greater element]() | [SolutionLInk]() |
+| - | [Previous smaller element]() | [SolutionLInk]() |
+| 84 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/submissions/1798089976/) | [SolutionLInk](https://leetcode.com/problems/largest-rectangle-in-histogram/submissions/1798089976) |
+| 735 | [Aesteroid Collision ](https://leetcode.com/problems/asteroid-collision/description/) | [SolutionLInk](https://leetcode.com/problems/asteroid-collision/submissions/1796266161) |
+| 42 | [Trapping Rain Water](https://leetcode.com/problems/asteroid-collision/submissions/1796266161) | [SolutionLInk](https://leetcode.com/problems/trapping-rain-water/submissions/1796300903) |
+| 907 | [Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/description/) | [SolutionLInk](https://leetcode.com/problems/sum-of-subarray-minimums/submissions/1797421092) |
+| 2104 | [Sum of Subarray Ranges](https://leetcode.com/problems/sum-of-subarray-ranges/description/) | [SolutionLInk](https://leetcode.com/problems/sum-of-subarray-ranges/submissions/1797425184) |
+| 402 | [Remove K Digits](https://leetcode.com/problems/remove-k-digits/description/) | [SolutionLInk](https://leetcode.com/problems/remove-k-digits/submissions/1797427180) |
+| 85 | [Maximum Rectangle](https://leetcode.com/problems/maximal-rectangle/description/) | [SolutionLInk](https://leetcode.com/problems/maximal-rectangle/submissions/1797431619) |
+| 901 | [Online Stck Span](https://leetcode.com/problems/online-stock-span/description/) | [SolutionLInk](https://leetcode.com/problems/online-stock-span/submissions/1797433422) |
+| - | [Infex to Postfix]() | [SolutionLInk]() |
+| - | [Infix to Prefix]() | [SolutionLInk]() |
+| - | [Prefix to Infeix]() | [SolutionLInk]() |
+| - | [Prefix to Postfix]() | [SolutionLInk]() |
+
+
 
 
 
