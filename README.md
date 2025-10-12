@@ -69,6 +69,7 @@
 | 61 | [Rotate List](https://leetcode.com/problems/rotate-list/description/) | [SolutionLInk](https://leetcode.com/problems/rotate-list/submissions/1791043972) |
 | 138 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/description/) | [SolutionLInk](https://leetcode.com/problems/copy-list-with-random-pointer/submissions/1791048919) |
 | - | [Flattening a Linked List]() | [SolutionLInk]() |
+
 ## Stack
 | #   | Problem | Solution |
 |-----|--------|---------|  
@@ -99,7 +100,14 @@
 | - | [Prefix to Infeix]() | [SolutionLInk]() |
 | - | [Prefix to Postfix]() | [SolutionLInk]() |
 
-
+## Tree
+| #   | Problem | Solution |
+|-----|--------|---------|  
+| 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [SolutionLInk](https://leetcode.com/problems/binary-tree-preorder-traversal/submissions/1798920196) |
+| 94 | [Binary Tree Inorder Traversal] (https://leetcode.com/problems/binary-tree-inorder-traversal/submissions/1798933553/) | [SolutionLink](https://leetcode.com/problems/binary-tree-inorder-traversal/submissions/1798933553)|
+|102 | [Binary tree Level Order Traversal] (https://leetcode.com/problems/binary-tree-level-order-traversal/description/) | [SolutionLink] (https://leetcode.com/problems/binary-tree-level-order-traversal/submissions/1798950798) |
+| 103 | [Binary tree ZigZag Level Order] (https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/submissions/1798993036/) | [SolutionLink] (https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/submissions/1798993036) |
+| 104 | [Maximum Depth of Binary Tree] (https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) | [SolutionLink] (https://leetcode.com/problems/maximum-depth-of-binary-tree/submissions/1798997222) |
 
 
 
